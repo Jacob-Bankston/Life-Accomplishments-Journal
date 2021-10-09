@@ -168,3 +168,7 @@ The numbers after the asterisk will limit from the minimum hops to maximum hops
 - The path to the gold
 
 [Total Code Repo](https://github.com/guyroyse/dnd-and-graph-databases)
+
+https://discord.gg/redis
+https://www.youtube.com/redisinc
+https://redis.com/redis-enterprise-cloud/

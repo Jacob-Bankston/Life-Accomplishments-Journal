@@ -64,3 +64,10 @@ https://github.com/actions/runner
     - The workflows themselves live in {root}/.github/workflows/{file} -> yaml file
     - In the GitHub panel on the web browser they will include intellisense for the yaml files for the actions
     - Search -> Actions on the marketplace
+  - Jobs -> By default multiple jobs will run in parallel
+  - Definition of arrays in yaml have 2 syntax types -> New line single dash and space or square bracket separate with commas
+  - Running VSCode in the web editor, can edit the GitHub files in the browser via the tooling instead of the GitHub web editor
+  - When firing jobs that need to chain and wait for each other, then the visualization will show these things
+  - see what the context objects are by using the toJSON wrap around the object in the yaml file
+  - calls the branches he creates {his name}/{branch name}
+  - run an exit of any non-zero code and it will fail

@@ -123,6 +123,9 @@ Jenkins is very frequently used
 
 #### Notes to improve talk
 
-- Throughout talk integrate questions to check for comprehension
-  - Boosts engagement of the audience, and ensures that you're getting your point across well
-  - Every audience is the same, so it gives you immediate feedback for how you're doing
+- POSITIVES
+  - Very informative and covered base knowledge throughout the talk
+- GROWTH
+  - Throughout talk integrate questions to check for comprehension
+    - Boosts engagement of the audience, and ensures that you're getting your point across well
+    - Every audience is the same, so it gives you immediate feedback for how you're doing

@@ -172,3 +172,14 @@ The numbers after the asterisk will limit from the minimum hops to maximum hops
 https://discord.gg/redis
 https://www.youtube.com/redisinc
 https://redis.com/redis-enterprise-cloud/
+
+Redis hosts their own cloud graph database
+Azure does an open source but it doesn't include graph database
+
+#### Notes on how to improve the Talk
+
+- POSITIVES
+  - Very informative, really starting from the ground up assuming very little prior knowledge
+  - Loved the energy and personality and purpose behind the talk, made it easy to get passionate and fun with a very dry set of material
+- GROWTH
+  - Very similar to previous talk in that checking for comprehension would be great throughout

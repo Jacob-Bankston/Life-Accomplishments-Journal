@@ -4,6 +4,7 @@
 
 ### UTILITY
 
+- **The Point:** The main advantage in the HashiCorp model is the fact that the structure is set up in the code
 - Open source platform, lots of market adoption
   - There are some of the products that are commercial products at this point
 - Vault service used to store secrets
@@ -36,3 +37,17 @@
 - Docker - Container around your application
 - Packer - Define a machine image that you would want to run on AWS, GCP or Azure
   - Define your images in JSON or HCL
+
+### Structure
+
+Layers: Terraform -> Console -> Vault -> Nomad
+
+### Demo
+
+- You have to have an AWS, GCP or Azure account already created
+- Follow along with the README.md file
+  - set up a packer.json file
+    - Defines the image definition
+  - use `package build`
+    - It will bundle and package everything then deploy it through the orchestration
+  -

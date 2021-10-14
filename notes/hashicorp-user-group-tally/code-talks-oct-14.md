@@ -5,6 +5,7 @@
 ### UTILITY
 
 - **The Point:** The main advantage in the HashiCorp model is the fact that the structure is set up in the code
+- **The Second Point:** Can go into the cloud devops tooling for AWS, GCP, Azure
 - Open source platform, lots of market adoption
   - There are some of the products that are commercial products at this point
 - Vault service used to store secrets
@@ -31,12 +32,15 @@
 - Some people using GCP functions
 - Some people using AWS
 
-### History
+### History & Terminology
 
 - Vagrant (Written in Go, the pre-docker container/vm solution)
 - Docker - Container around your application
 - Packer - Define a machine image that you would want to run on AWS, GCP or Azure
   - Define your images in JSON or HCL
+- Orchestrator - How much compute is available leftover? Handle that situation.
+  - "Here's all the requirements for the application, find me where in the resources that we can run this."
+  - Spins up and spins down resources as needed for the app/server/etc...
 
 ### Structure
 
@@ -49,5 +53,15 @@ Layers: Terraform -> Console -> Vault -> Nomad
   - set up a packer.json file
     - Defines the image definition
   - use `package build`
-    - It will bundle and package everything then deploy it through the orchestration
-  -
+    - runs terraform to then spin up the servers on the cloud platform
+
+### Tech Preview Nomad Pack
+
+- Nomad Job file
+  - Large json file that sets up the config for the container that is deployed via Nomad
+- They have created new templates to be reconfigured
+  - One of their packs is Nginx
+  - sections have been template-ized that you inject the variables into the output
+- You can jump into your url in the terminal and get a UI to see the current values of your Nomad container deployment
+  - Can see all of your information for all the clients
+- You can reuse the templates over and over instead of maintaining several different json templates

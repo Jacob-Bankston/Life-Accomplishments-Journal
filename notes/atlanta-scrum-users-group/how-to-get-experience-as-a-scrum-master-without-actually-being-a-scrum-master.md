@@ -219,11 +219,3 @@
 - KEY TAKEAWAY
 
   - If you prefer being an individual contributer, hate meetings or working with people in general, only want to develop and build good products, or just lukewarm about life then you will dislike being a Scrum Master
-
-### Resources Mentioned
-
-### People at the Meetup
-
-- Joshua Barbieri
-- Nenad Mlinarevic
-- Katrina Coker - The Scrum Mother

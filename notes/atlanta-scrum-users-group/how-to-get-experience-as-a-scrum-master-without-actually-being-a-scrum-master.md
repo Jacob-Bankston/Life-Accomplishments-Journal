@@ -219,3 +219,15 @@
 - KEY TAKEAWAY
 
   - If you prefer being an individual contributer, hate meetings or working with people in general, only want to develop and build good products, or just lukewarm about life then you will dislike being a Scrum Master
+
+Training Discount
+
+- an exclusive discount to Atlanta Scrum Users Group members
+- Use code ATL-SCRUM for $400 off the list price of any public class
+- full schedule: https://improving.com/training
+
+Thank You!
+
+- Next meetup - November 15
+- note new meeting pattern - first Mondays
+- Speaker/Topic TBD

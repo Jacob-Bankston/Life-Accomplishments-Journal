@@ -119,27 +119,21 @@ If you are having difficulties deciding which citation style to use, and a style
 
 [Citation & Style Guides](https://www.lib.sfu.ca/help/cite-write/citation-style-guides) from SFU Library
 
-MLA Formatting & Style Guide  (Links to an external site.)from Purdue University’s Online Writing Lab (OWL)
-This is an excellent guide for using MLA.
+- [MLA Formatting & Style Guide](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_formatting_and_style_guide.html) from Purdue University’s Online Writing Lab (OWL)
+  - This is an excellent guide for using MLA.
 
-APA Formatting & Style Guide  (Links to an external site.)from Purdue University’s Online Writing Lab (OWL)
-This is a good starting point for information on using APA.
+- [APA Formatting & Style Guide](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/general_format.html) from Purdue University’s Online Writing Lab (OWL)
+  - This is a good starting point for information on using APA.
 
-Chicago Formatting & Style Guide (Links to an external site.) from Purdue University's Online Writing Lab (OWL)
+- [Chicago Formatting & Style Guide](https://owl.purdue.edu/owl/research_and_citation/chicago_manual_17th_edition/cmos_formatting_and_style_guide/general_format.html) from Purdue University's Online Writing Lab (OWL)
 
-Cite References in Your Paper (Links to an external site.) from The Writing Center at the University of Wisconsin-Madison
-Excellent information on APA, MLA, Chicago/Turabian, and other styles, including CSE and APSA.
+- [Cite References in Your Paper](https://writing.wisc.edu/handbook/documentation/) from The Writing Center at the University of Wisconsin-Madison
+  - Excellent information on APA, MLA, Chicago/Turabian, and other styles, including CSE and APSA.
 
-Citation and Style Guides (Links to an external site.) from Concordia University
-This site includes multiple guides for APA, MLA, Chicago/Turabian, and other styles.
-
-SFU Policies Regarding Plagiarism:
-
-SFU Academic Honesty and Student Conduct PoliciesLinks to an external site.
-
-Task Force on Academic Honesty and Integrity (2004)Links to an external site.
+- [Citation and Style Guides](https://library.concordia.ca/help/citing/index.php) from Concordia University
+  - This site includes multiple guides for APA, MLA, Chicago/Turabian, and other styles.
 
 ### Further Reading:
 
-Publications authored by Rebecca Moore Howard. (Links to an external site.)
-You may be interested in knowing that Rebecca Moore Howard coined the term “patchwriting”.
+- [Publications authored by Rebecca Moore Howard.](https://www.rebeccamoorehoward.com/publications)
+  - You may be interested in knowing that Rebecca Moore Howard coined the term “patchwriting”.

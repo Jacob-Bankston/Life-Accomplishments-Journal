@@ -105,4 +105,10 @@
 - Get data from one application to another
   - Gateway Network -> permit secure connections via the RIO controller
     - MQTT settings -> take all the tags in the RIO and publish them to a broker
-    - 
+
+### Accessibility
+
+- Cloud Data Centers can set up an MQTT Broker to have other applications subscribe to it to gather and utilize the data
+- The Ignition products can grab all of the networked OPTO controllers securely
+- Recommends - Multi-Factored Auth protocols
+- Overall, very awesome solution for a lot of our pushing and gathering of data problems that we would like to solve. Would be very interested in going to a training course to understand and learn more about the product and to get mentoring to learn about how everything works.

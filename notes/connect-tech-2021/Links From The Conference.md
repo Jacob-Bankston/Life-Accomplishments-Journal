@@ -13,3 +13,5 @@ https://github.com/coryhouse/reactjsconsulting
 - He uses issues to list out topics he's interested in
 - https://github.com/coryhouse/reactjsconsulting/issues
 - React Frameworks - https://github.com/coryhouse/reactjsconsulting/issues/47
+- 10 Lessons from years in react - https://twitter.com/housecor/status/1437765667906854915?lang=en
+-

@@ -171,4 +171,32 @@ Coding!
     "cy": "start-server-and-test dev http://localhost:3000 cy-open",
   - Runs the cypress along with the server
   - Cypress should be validating what my form should expect instead of me (being human) trying to work it out
-- https://testing-library.com/docs/cypress-testing-library/intro
+- Testing Library
+  - https://testing-library.com/docs/
+    - cypress needed import - https://testing-library.com/docs/cypress-testing-library/intro
+- Code to make Cypress fill out the form!
+
+```js
+/// <reference types="cypress" />
+
+it("should render form", () => {
+  cy.visit("http://localhost:3000");
+  cy.findByLabelText("Title").type("React Intro");
+  cy.findByLabelText("Abstract").type("Intro to React.");
+});
+```
+
+- In Cypress the assertions are implied, you don't need the explicit assert and expect terms
+- The reason you choose the form to submit the form is that you can hit the enter key to submit as opposed to being forced to click the button to submit the values
+- Using declared functions versus arrow functions lets you leverage hoisting of functions better
+- In jsx whenever you add curly braces think, "I want to write JavaScript now"
+
+- Why use a union type over using enums
+
+  - https://stackoverflow.com/questions/40275832/typescript-has-unions-so-are-enums-redundant
+  - Specific response - https://stackoverflow.com/a/60041791
+
+- In Cypress you can do several testing within the same tests because it's all abstracted and documented within itself
+- Brilliant thought: (Code Complete) using a return early in code you don't have to do as many conditionals to prevent other actions and it will clean up a lot of redundancies and be a lot more readable.
+- Fun stuff, remember to have a unique key for every item mapped over in react
+- With this workflow you never have to handle inputting all the information in the forms, cypress just takes care of it for you. It's absolutely wonderful!

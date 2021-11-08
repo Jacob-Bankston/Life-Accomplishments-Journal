@@ -52,4 +52,19 @@ Coding!
 
 - Pretty much everyone is using lazy-loading and everyone is using react-router
 - When you load the page, Next.js will load up the pages that are in links on the page "eager loading"
--
+
+### Why TypeScript is now good
+
+- babel now supports TypeScript
+- react now supports TypeScript
+
+### Compelling Options
+
+- [List](https://github.com/coryhouse/reactjsconsulting/issues/47)
+- create-react-app, Vite
+- Server-rendered, no DB included: Next, Remix, Gatsby, After [Compare Vid](https://www.youtube.com/watch?v=dfMhRYOtglg)
+- Server-rendered, DB included: Redwood (GraphQL and Prisma), Blitz
+
+[Have Single-Page Apps Ruined the Web? | Transitional Apps with Rich Harris, NYTimes](https://www.youtube.com/watch?v=860d8usGC0o)
+
+- Maintainer of Svelte

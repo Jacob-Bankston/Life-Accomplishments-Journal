@@ -11,3 +11,5 @@ https://github.com/coryhouse/reactjsconsulting
 
 - Cory House's github site
 - He uses issues to list out topics he's interested in
+- https://github.com/coryhouse/reactjsconsulting/issues
+- React Frameworks - https://github.com/coryhouse/reactjsconsulting/issues/47

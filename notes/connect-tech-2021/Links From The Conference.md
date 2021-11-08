@@ -14,4 +14,15 @@ https://github.com/coryhouse/reactjsconsulting
 - https://github.com/coryhouse/reactjsconsulting/issues
 - React Frameworks - https://github.com/coryhouse/reactjsconsulting/issues/47
 - 10 Lessons from years in react - https://twitter.com/housecor/status/1437765667906854915?lang=en
--
+
+https://www.sourcetreeapp.com/
+
+- Atlassian version control setup
+
+https://testing-library.com/docs/
+
+- Testing library tied into a lot of things
+
+https://stackoverflow.com/a/60041791
+
+- Typescript versus enums list of why to use the union instead of an enum

@@ -75,3 +75,29 @@ kcd.im/problems-slides
 - slides from kent's keynote
 
 ## Riaz Virani - The Current State of React State Management
+
+https://www.riazv.me/
+
+- personal website
+
+## Kent C Dodds - Super Simple Start to Remix
+
+kcd.im/sssr-slides
+
+- slides from the presentation
+
+https://remix.run/
+
+- React Remix
+
+icanhasdadjoke.com
+
+- dad joke generator
+
+https://esbuild.github.io/
+
+- es build's website
+
+https://github.com/kentcdodds
+
+- kent c dodds github site

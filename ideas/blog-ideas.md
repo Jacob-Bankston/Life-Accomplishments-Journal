@@ -9,3 +9,5 @@
   - [Cory's Tweet](https://twitter.com/housecor/status/1434168409072324610)
 
 ## THOUGHTS
+
+- LEGOS ARE LIKE COMPONENTS - @RayGesualdo talk on APIs repurposed for component libraries

@@ -101,3 +101,17 @@ https://esbuild.github.io/
 https://github.com/kentcdodds
 
 - kent c dodds github site
+
+## Cory House - Designing Reusable Components…That Are Actually Reusable
+
+https://svelte.dev/
+
+- javascript framework
+
+https://storybook.js.org/
+
+- Storybook is an open source tool for building UI components and pages in isolation. It streamlines UI development, testing, and documentation.
+
+https://github.com/reactjs/react-docgen
+
+- Programmatically generate documentation for components

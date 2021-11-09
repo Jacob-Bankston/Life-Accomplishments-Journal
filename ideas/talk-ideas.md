@@ -1,5 +1,7 @@
 # TALK IDEAS
 
+https://github.com/coryhouse/speaker-starter-kit
+
 ## TALKS
 
 - Ergonomics - Comprehensive Talk on blog article topics

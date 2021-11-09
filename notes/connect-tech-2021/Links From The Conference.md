@@ -138,4 +138,18 @@ https://jwt.io/
 
 - troubleshooting and attempting web tokens and algorithm
 
-## Ray Gesualdo - Brick by Brick: What Lego Taught Me About Great APIs
+## Monorepos
+
+https://www.atlassian.com/git/tutorials/monorepos
+
+- Atlassian monorepos
+
+## Brandon Bayer - Build Fullstack Apps in Record Time with Blitz.js
+
+https://blitzjs.com/
+
+- blitz's website
+
+https://www.prisma.io/react-server-components
+
+- react orm integrations

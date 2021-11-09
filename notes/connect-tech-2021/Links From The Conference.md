@@ -115,3 +115,27 @@ https://storybook.js.org/
 https://github.com/reactjs/react-docgen
 
 - Programmatically generate documentation for components
+
+## Stephanie Chamblee - Understanding OAuth 2.0 and OpenID Connect
+
+https://haveibeenpwned.com/
+
+- letting you know if your account has been compromised
+
+https://oauth.net/2/
+
+- oauth docs site
+
+https://auth0.com/docs/
+
+- auth0 docs
+
+https://github.com/panva/jose
+
+- "JSON Web Almost Everything"
+
+https://jwt.io/
+
+- troubleshooting and attempting web tokens and algorithm
+
+## Ray Gesualdo - Brick by Brick: What Lego Taught Me About Great APIs

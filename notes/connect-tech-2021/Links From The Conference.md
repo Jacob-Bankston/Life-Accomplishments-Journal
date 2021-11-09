@@ -58,3 +58,20 @@ https://xstate.js.org/viz/
 https://eslint.org/docs/rules/no-restricted-imports
 
 - a way to not allow people to import specific tooling or packages
+
+## Kent C Dodds - Don't Solve Problems, Eliminate Them
+
+- TestingJavaScript.com
+- kentcdodds.com
+- EpicReact.Dev
+
+https://wattenberger.com/blog/react-hooks
+
+- react hooks blog post, the author wrote a book!
+  - "Thinking in React Hooks" - amelia wattenberger
+
+kcd.im/problems-slides
+
+- slides from kent's keynote
+
+## Riaz Virani - The Current State of React State Management

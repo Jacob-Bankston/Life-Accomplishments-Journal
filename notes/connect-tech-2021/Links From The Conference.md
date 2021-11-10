@@ -163,3 +163,17 @@ https://react-spring.io/
 https://moti.fyi/
 
 https://docs.swmansion.com/react-native-reanimated/
+
+## Pato Vargas - Performant And Accessible Angular Apps As PWAs
+
+https://www.pwastats.com/
+
+https://whatpwacando.today/
+
+https://create-react-app.dev/docs/making-a-progressive-web-app/
+
+https://www.electronjs.org/docs/latest/api/service-workers
+
+https://caniuse.com/
+
+web worker instead of service worker to offline the data crunching

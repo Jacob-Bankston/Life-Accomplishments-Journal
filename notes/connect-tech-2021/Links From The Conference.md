@@ -154,4 +154,6 @@ https://www.prisma.io/react-server-components
 
 - react orm integrations
 
-##
+## Anastasyia Flynn - Keynote - career.grow()
+
+-

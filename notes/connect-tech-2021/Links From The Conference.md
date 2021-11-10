@@ -154,6 +154,12 @@ https://www.prisma.io/react-server-components
 
 - react orm integrations
 
-## Anastasyia Flynn - Keynote - career.grow()
+## Niya Panamdanam - Animations in React Native
 
--
+https://slides.com/
+
+https://react-spring.io/
+
+https://moti.fyi/
+
+https://docs.swmansion.com/react-native-reanimated/

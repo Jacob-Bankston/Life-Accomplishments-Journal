@@ -1,6 +1,6 @@
 # Automation Testing & Continuous Integration
 
-## Srini Santhana
+## Srini Santhana - Software Development Manager, srini@authorify.com
 
 ### Description
 

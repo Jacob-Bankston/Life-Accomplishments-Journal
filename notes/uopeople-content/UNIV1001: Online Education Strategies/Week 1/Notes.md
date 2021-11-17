@@ -36,10 +36,13 @@ This is an issue many companies have when it comes to internal tooling and proce
 
 Overall this was a very top level article that did not state independent opinions but rather generally stated that the online peer assessment model was effective in having the students retain and comprehensively understand the material to a higher degree, while also developing their feedback skill set. I see no downsides to implementing this process, and I look forward to particpating in it throughout my online degree!
 
-## Research on Peer Review
+### Research on Peer Review
 
 https://www.reap.ac.uk/PEER/Research.aspx
 
 I love that the emphasis on this article feels like it is in direct contradiction to the information on peer evaluation in the previous article. It highlights the idea that many students feel uncomfortable in the idea that others may not give their work a fair and just evaluation. However, everyone is perfectly fine with receiving feedback from others because many of us want to do a good job and improve our skills and knowledge base.
 
 Granted that the UoPeople model does integrate peer assessment/evaluation, but it only does so on a small scale as it pertains to the overall grade. Only 10% of the entire grade is impacted by the peer evaluation process. Despite the amount of the grade being so small, the engagement in this process highly impacts motivation with keeping up with the course work, retention of the information covered, and overall interaction with the material. Seeing those numbers, and knowing the impact that peer review/assessment/evaluation can have makes me more confident in the scoring model for the campus.
+
+Having been in education for so long, it is very interesting to see all of the positive benefits of peer review listed out and understand intuitively that it makes sense. My favorite positive out of all the benefits has to deal with the idea that peer review and criticism is much more likely to happen in a professional environment in a similar way, rather than a typical teacher/student relationship in a workplace.
+

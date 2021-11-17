@@ -4,6 +4,8 @@
 
 [Owl Purdue APA In Text Guide](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/in_text_citations_the_basics.html)
 
+[Word Counter](https://wordcounter.net/)
+
 ## Quotes
 
 "If you are directly quoting or borrowing from another work, you should include a page number at the end of the parenthetical citation. Use the abbreviation "p." (for one page) or "pp." (for multiple pages) before listing the page number(s). Use an en dash for page ranges. For example you might write (Jones, 1998, p. 199) or (Jones, 1998, pp. 199-201). This information is reiterated below.

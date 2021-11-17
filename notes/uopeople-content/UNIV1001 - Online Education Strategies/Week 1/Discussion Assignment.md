@@ -24,3 +24,72 @@ Having seen the benefits to collaborative learning first hand, I am a true belie
 Rosa, S. S., Coutinho, C. P., & Flores, M. A. (2016). Online Peer Assessment: Method and Digital Technologies. Procedia - Social and Behavioral Sciences, 228, 418–423. https://doi.org/10.1016/j.sbspro.2016.07.064
 
 ### Reviewing Other's Submissions
+
+What are the benefits of collaborative learning?
+
+- How does University of the People integrate community-oriented learning into the classroom?
+- In your response, be sure to share any experience you have with collaborative learning.
+- 250 word minimum
+- 500 word maximum
+
+10 (A) - Excellent, substantial, relevant, insightful, enriching, and stimulating contribution to the discussion. Also, uses external resources to support position where required and/or applicable.
+8 - 9 (B) - Good, quite substantial and insightful, but missing minor details which would have otherwise characterized it as an excellent response.
+6 - 7 (C) - Satisfactory insight and relevance, but required some more information and effort to have warranted a better rating.
+4 - 5 (D) - Limited insight and relevance of the material; more effort and reflection needed to have warranted a satisfactory grading.
+0 - 3 (F) - Unsatisfactory insight/relevance or failure to answer the question, reflecting a poor or limited understanding of the subject matter and/or the guidelines of the question.
+
+- Did the peer respond to everything asked by the assignment prompt?
+- Was the peer’s overall response organized and logical? Was it easy to follow and smooth?
+- Was it easy to understand the ideas the student was trying to communicate, or did you have to make assumptions to make sense out of what the peer wrote?
+- Did the peer use their own words, or if they borrowed from somewhere else, did they give credit to the source they used?
+- Were there consistent errors in grammar and punctuation that made it hard to understand or make sense out of the writing?
+
+### Feedback 4 - Ismail Ajagbe
+
+I appreciated the attention to detail and clear structured format of your post! Additionally, you very clearly hit all of the guidelines within the discussion prompt, so great job! An area for improvement would be to refer to an article or book including it's citation to back up the information that you are asserting in your writing.
+
+Additionally, if you were wanting to take on Ruqaiah's feedback, then you could integrate the questions into your statements within your writing by saying something like, "University of the People has integrated community-oriented learning into the classroom by building a global learning community with equal access for everyone."
+
+And since I've been recommending these links to everyone else, I used these online tools to help me with my submission:
+
+https://wordcounter.net/ - A simple copy/paste area to make sure that you're giving a substantial response to the writing prompt, and not getting too close to the minimum or maximum allowed words!
+
+https://www.scribbr.com/apa-citation-generator/ - A free APA citation generator that can be utilized to then make your in-text citations more accurate!
+
+https://writer.com/grammar-checker/#product - Finally a free grammar checker tool to double check that you're putting your best content out there without any issues!
+
+### Feedback 3 - Ruqaiah Bashmail
+
+I appreciate how you bring positivity and excitement into your writing, and I really enjoyed the portion of your submission where you brought in your personal experiences with collaboration! An area of improvement would be to leverage some external resources to back up your main points, properly cite them with APA formatting, and then use some online tooling to comb through your writing for potential grammatical issues.
+
+Here are some of the tools that I utilized when checking my writing before submitting:
+
+https://wordcounter.net/ - A simple copy/paste area to make sure that you're giving a substantial response to the writing prompt, and not getting too close to the minimum or maximum allowed words!
+
+https://www.scribbr.com/apa-citation-generator/ - A free APA citation generator that can be utilized to then make your in-text citations more accurate!
+
+https://writer.com/grammar-checker/#product - Finally a free grammar checker tool to double check that you're putting your best content out there without any issues!
+
+### Feedback 2 - Kosar Razzaghi
+
+You have a wonderful list of ways in which collaborative learning facilitates growth in the student's learning and development! I also enjoyed you adding in your perspective on the different areas of UoPeople's educational model. An area for improvement would be to include in-text citations for any borrowed ideas or quotations you may have referenced within your response, and spending a little bit of extra time to check that the format of your response is set the way that best represents you in a positive professional light.
+
+Also, I found these online tools very helpful when creating my response, so feel free to check them out:
+
+https://wordcounter.net/ - A simple copy/paste area to make sure that you're giving a substantial response to the writing prompt, and not getting too close to the minimum or maximum allowed words!
+
+https://www.scribbr.com/apa-citation-generator/ - A free APA citation generator that can be utilized to then make your in-text citations more accurate!
+
+https://writer.com/grammar-checker/#product - Finally a free grammar checker tool to double check that you're putting your best content out there without any issues!
+
+### Feedback 1 - Margaret Murage
+
+Great job using an external resource to validate your statements, and for making your best effort to align the citation with the APA formatting we're being introduced to! You also did well in providing material that answered how UoPeople integrates community-oriented learning very thoroughly in your response. An area for improvement would be to include insight from your personal experiences with collaborative learning!
+
+There are some online tools that I feel would help you take your writing to the next level before our next submission as well:
+
+https://wordcounter.net/ - A simple copy/paste area to make sure that you're giving a substantial response to the writing prompt, and not getting too close to the minimum or maximum allowed words!
+
+https://www.scribbr.com/apa-citation-generator/ - A free APA citation generator that can be utilized to then make your in-text citations more accurate!
+
+https://writer.com/grammar-checker/#product - Finally a free grammar checker tool to double check that you're putting your best content out there without any issues!

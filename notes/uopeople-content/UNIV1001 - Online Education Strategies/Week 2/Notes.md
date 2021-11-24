@@ -10,7 +10,7 @@ Assignments are heavily focused on writing and writing skills, discussion is a c
 
 ### Writing
 
-Read Chapter 8 of College-Success (Pages 271-296) [link](https://open.lib.umn.edu/collegesuccess/part/chapter-8-writing-for-classes/)
+Done - Read Chapter 8 of College-Success (Pages 271-296) [link](https://open.lib.umn.edu/collegesuccess/part/chapter-8-writing-for-classes/)
 
 Read Answering Assignment Questions [link](https://www.student.unsw.edu.au/answering-assignment-questions)
 
@@ -129,6 +129,30 @@ Learning is a social activity - when we learn with others, we learn more effecti
 
 Read: The effectiveness and development of online discussions. [link](https://jolt.merlot.org/vol5no1/al-shalchi_0309.htm)
 Read: 20 Tips for Writing an A+ Discussion Post for Your Online Class [link](https://www.saintleo.edu/blog/20-tips-for-writing-an-a-discussion-post-for-your-online-program-class)
+
+Tips for acing your next discussion post
+
+- Read and reflect thoroughly on the issues presented in the weekly discussion question.
+- Refer to the course syllabus and any rubric that might offer insight into what your instructor expects and what you will be graded on.
+- If you don’t understand something, email your instructor right away and ask for clarification.
+- Posts are intended to be scholarly discussions, so providing fact-based sources in support of your opinion is important.
+- Defend your opinions with verifiable supporting information from vetted websites, reliable academic e-books, and reports of research from the scholarly journal literature.
+- Don’t procrastinate. Respond promptly.
+- Write a logical, well-organized, thought-through post.
+- Use the required in-text citation format and provide properly formatted citations to scholarly sources.
+- Avoid language that is not appropriate for an academic setting.
+- Avoid overly informal language. Discussion posts are not Twitter, SnapChat or Instagram posts. Use appropriate academic writing style, not text-speak.
+- Integrate prior readings in postings.
+- Offer personal observations and knowledge in an accurate and insightful way.
+- Present new observations whenever you can. Don’t simply repeat what everyone else is saying.
+- Incorporate your own experience if it relates to the topic.
+- Give thorough consideration to classmates’ postings and respond constructively with something substantive.
+- Always be polite. Review your post for tone and clarity.
+- Be respectful of others’ opinions.
+- Don’t use emojis, exclamation points or contractions.
+- Review your spelling and punctuation.
+- Participate in all module discussions.
+
 
 ### Peer Assessment
 

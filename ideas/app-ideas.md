@@ -19,5 +19,12 @@
       - Mac
       - Trello
       - Jira
+- Social Media Score App
+  - Twitter
+  - Linked In
+  - Instagram
+  - TikTok
+  - YouTube 
+  - Twitch
 
 ## THOUGHTS

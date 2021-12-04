@@ -7,7 +7,22 @@ https://github.com/coryhouse/speaker-starter-kit
 - Ergonomics - Comprehensive Talk on blog article topics
   - Name:
   - Host content on Github!
+- Choir to Software Developer
+  - Talk comprising if so the skills and ideas that transfer between the two industries
+- Back to Basics - JS
+  - Talk showcasing new JS features and their 1-to-1 counterparts
+  - ES6+
+- What Problem Does this Solve?
+  - Why do we need orchestrators?
+  - Why do we need CI/CD?
+  - Why do we need frameworks?
+  - Why do we need JavaScript?
+  - Why do we need CSS?
 
+
+# Paper Submissions
+
+## Choir -> Developer Talk
 
 ### Title
 

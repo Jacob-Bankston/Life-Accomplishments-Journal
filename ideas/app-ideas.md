@@ -26,5 +26,8 @@
   - TikTok
   - YouTube 
   - Twitch
+- Perfect Pitch Trainer
+  - The app shows a note name and you have to play/sing that note
+  - The app plays a note, and you have to guess it
 
 ## THOUGHTS

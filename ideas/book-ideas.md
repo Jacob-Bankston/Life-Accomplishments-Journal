@@ -6,6 +6,8 @@
   - To help choir teachers
   - To help anyone with managing issues
   - For event planning
+2. Everyone Can Sing!
+  - Ideas and strategies to free up anyone's voice and teach them the basics of singing
 
 ## Fiction Book Ideas
 

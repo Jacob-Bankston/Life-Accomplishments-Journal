@@ -29,5 +29,7 @@
 - Perfect Pitch Trainer
   - The app shows a note name and you have to play/sing that note
   - The app plays a note, and you have to guess it
+- Motivation Phrase Generator
+  - Sends you a notification motivating you every day
 
 ## THOUGHTS

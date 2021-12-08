@@ -33,5 +33,15 @@
   - Sends you a notification motivating you every day
 - Portfolio Blog App
 - Simple Web Apps using different Web APIs
+- Intro Apps with frameworks
+  - React
+  - Angular
+  - Vue
+  - Svelte
+  - Ionic
+    - React
+    - Angular
+    - Vue
+    - Vanilla JS
 
 ## THOUGHTS

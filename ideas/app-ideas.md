@@ -31,5 +31,7 @@
   - The app plays a note, and you have to guess it
 - Motivation Phrase Generator
   - Sends you a notification motivating you every day
+- Portfolio Blog App
+- Simple Web Apps using different Web APIs
 
 ## THOUGHTS

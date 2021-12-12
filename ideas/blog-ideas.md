@@ -31,6 +31,7 @@
 - GIT BASICS - WHAT IS IT FOR? WHAT DOES IT SOLVE?
 - JOURNAL - 100 DAYS OF CODE
 - JOURNAL - LEARNING FROM DOCS/TUTORIAL SERIES
+- CHOIR - List all the tips and tricks and systems for sight reading over the years
   
 
 ## THOUGHTS

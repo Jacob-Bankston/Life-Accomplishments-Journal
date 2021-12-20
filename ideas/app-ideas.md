@@ -43,5 +43,6 @@
     - Angular
     - Vue
     - Vanilla JS
+- Turn based rpg game that you yell to attack and rhythm game button mash to dodge
 
 ## THOUGHTS

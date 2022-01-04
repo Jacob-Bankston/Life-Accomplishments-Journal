@@ -55,3 +55,5 @@ Thanks for your consideration!
 ## THOUGHTS
 
 - Host code snippets and slide deck in images in a Github repo to share with guests
+- Wrap up song?
+  - All the Lonely People parody - "All the Terms and People"

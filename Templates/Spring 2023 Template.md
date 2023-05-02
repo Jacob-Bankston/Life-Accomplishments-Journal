@@ -51,15 +51,15 @@
   - [ ] No sugary drink
   - [ ] No alcohol
   - [ ] No snacks
-  - [x] Water bottle 1
+  - [ ] Water bottle 1
   - [ ] Water bottle 2
   - [ ] Water bottle 3
   - [ ] Water bottle 4
-  - [x] Take daily meds
+  - [ ] Take daily meds
 - [ ] <b>Spanish</b>
   - [ ] Daily DuoLingo
 - [ ] <b>Writing</b>
-  - [x] Medium Article
+  - [ ] Medium Article
     - [ ] Career Transition
     - [ ] Tech Tips
   - [ ] Linked In Posts

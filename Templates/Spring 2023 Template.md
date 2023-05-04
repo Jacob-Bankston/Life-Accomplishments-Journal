@@ -51,10 +51,7 @@
   - [ ] No sugary drink
   - [ ] No alcohol
   - [ ] No snacks
-  - [ ] Water bottle 1
-  - [ ] Water bottle 2
-  - [ ] Water bottle 3
-  - [ ] Water bottle 4
+  - [ ] Water bottles: 
   - [ ] Take daily meds
 - [ ] <b>Spanish</b>
   - [ ] Daily DuoLingo

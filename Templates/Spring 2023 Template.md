@@ -45,7 +45,7 @@
   - [ ] Planks 1 min
   - [ ] Massage Gun
   - [ ] Stretches pre/post workout
-  - [ ] Daily Weigh In: 179.0 (after lunch... not a great number...)
+  - [ ] Daily Weigh In: 
 - [ ] <b>Diet/Health</b>
   - [ ] 1 meal
   - [ ] No sugary drink

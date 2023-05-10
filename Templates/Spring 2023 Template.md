@@ -30,9 +30,6 @@
     - [ ] Slides
     - [ ] Cartoon Bright
     - [ ] Enunciate Work
-  - [ ] Uncharted Work - 15m
-    - [ ] Mirror/Video Practice
-    - [ ] Tuning/Notes Practice (S, AYG)
   - [ ] Breakaway - 15m
     - [ ] Duets with Ellie
     - [ ] Pick 2 more contest rep

@@ -2,6 +2,28 @@
 
 ## To-Do
 
+### Hobbies
+
+- [ ] <b>Reading</b>
+  - [ ] Vocal Ped Textbook: 
+- [ ] <b>Singing</b>
+  - [ ] Rehearse - 15 minutes
+  - [ ] Multitrack
+
+### Life Goals
+
+- [ ] <b>Spanish</b>
+  - [ ] Daily DuoLingo Bubble: 
+- [ ] <b>Weekly Writing</b>
+  - [ ] Medium Article: 
+
+### Health & Fitness
+
+- [ ] <b>Workout</b>
+  - [ ] Walk to Mail/Recycling
+  - [ ] Biking: 
+  - [ ] Pull Ups: 
+  - [ ] Planks: 
 - [ ] <b>Arms Stretches</b>
   - [ ] Hand Flaps x 5
   - [ ] Fist - Knuckle - Spread x 5
@@ -21,42 +43,14 @@
   - [ ] Side scrunches x 15, each side
   - [ ] Twists x 15, each side
   - [ ] Sternum Back Stretches x 15
-  - [ ] Shake loose
-- [ ] <b>Reading</b>
-  - [ ] Vocal Ped Textbook
-  - [ ] Software Dev Textbook/Article
-- [ ] <b>Singing</b>
-  - [ ] Warm Up, Skill Building
-    - [ ] Slides
-    - [ ] Cartoon Bright
-    - [ ] Enunciate Work
-  - [ ] Breakaway - 15m
-    - [ ] Duets with Ellie
-    - [ ] Pick 2 more contest rep
-  - [ ] ATX - 15m
-    - [ ] Review and Memorize core rep for shows/gigs
-- [ ] <b>Workout</b>
-  - [ ] Biking 1 hr
-  - [ ] Long Walk
-  - [ ] Pull Up x 2
-  - [ ] Planks 1 min
-  - [ ] Massage Gun
-  - [ ] Stretches pre/post workout
-  - [ ] Daily Weigh In: 
 - [ ] <b>Diet/Health</b>
+  - [ ] Daily Weigh In: 
   - [ ] 1 meal
   - [ ] No sugary drink
   - [ ] No alcohol
   - [ ] No snacks
   - [ ] Water bottles: 
   - [ ] Take daily meds
-- [ ] <b>Spanish</b>
-  - [ ] Daily DuoLingo
-- [ ] <b>Writing</b>
-  - [ ] Medium Article
-    - [ ] Career Transition
-    - [ ] Tech Tips
-  - [ ] Linked In Posts
 
 ## Extras Completed 
 
